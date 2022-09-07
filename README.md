@@ -56,7 +56,7 @@ node moviedb.js get-movies -p --page 1
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | --page    | `number` | **Required**|
-| -p, --popular    | `number` | **Required**|
+| -p, --popular    | `` | **Required**|
 
 Example: \
 node moviedb.js get-persons --page 1 -p
