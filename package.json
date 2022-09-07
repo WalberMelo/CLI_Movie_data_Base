@@ -1,0 +1,21 @@
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/moviedb.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.4.0",
+    "dotenv": "^16.0.2",
+    "node-notifier": "^10.0.1",
+    "ora": "^6.1.2"
+  }
+}
