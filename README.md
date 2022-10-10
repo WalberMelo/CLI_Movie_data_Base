@@ -1,7 +1,7 @@
 
 # TMDB
 
-CLI program implementing the commands and the options which allows to make network requests.
+CLI program implementing the commands with options to make the query network requests.
 
 Objectives in this projects
 - Learn how to connect to a third party API using node.js
